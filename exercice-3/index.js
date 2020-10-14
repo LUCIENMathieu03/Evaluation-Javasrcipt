@@ -3,3 +3,7 @@
 /*
 *Exercice3
 */
+
+var MyMorpionXO = new MyMorpionXO() {
+	
+}
